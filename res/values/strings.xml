@@ -22,6 +22,8 @@
     <string name="title_activity_maps_route">Map</string>
     <string name="google_directions_key">AIzaSyAKCizZJqM7c1qpJXWU6033FAhrT3pt2_Y</string>
     <string name="direcction">direcction</string>
+    <string name="play">Jugar</string>
+    <string name="accept">Aceptar</string>
 
 
 </resources>
