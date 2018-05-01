@@ -15,8 +15,8 @@ import android.widget.Toast;
  */
 
 public class PlayActivity extends AppCompatActivity {
-    private String[] nameMonument={"campana_de_dolores", "el_arbol_de_la_noche_triste", "cabeza_de_aguila", "monumento_a_hidalgo", "parroquia_de_los_dolores", "monumento_a_los_ninos_heroes"}; //
-    private String[] shadowMonument={"s_campana_de_dolores", "s_el_arbol_de_la_noche_triste", "s_cabeza_de_aguila", "s_monumento_a_hidalgo", "s_parroquia_de_los_dolores", "s_monumento_a_los_ninos_heroes"}; //piece - recortar un pedazo de imagen
+    private String[] nameMonument={"ic_game_1", "ic_game_2", "ic_game_3", "ic_game_4", "ic_game_5", "ic_game_6"}; //
+    private String[] shadowMonument={"ic_game_11", "ic_game22", "ic_game_33", "ic_game_44", "ic_game_55", "ic_game_66"}; //piece - recortar un pedazo de imagen
     private int attempts = 3;
 
     private Button btnAccept;
